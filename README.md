@@ -45,6 +45,8 @@
 ![HTML](https://img.shields.io/badge/-communication-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-statistical_techniques-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![HTML](https://img.shields.io/badge/-Prompt_Engineering-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-Data_Flow-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
+![HTML](https://img.shields.io/badge/-Data_Architecture_BI-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 
   
 ### Studying in this moment:
