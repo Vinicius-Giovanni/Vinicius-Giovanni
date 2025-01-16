@@ -55,6 +55,7 @@
 ![Visual Studio](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=codeium&logoColor=yellow&labelColor=0D1117)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-UX_and_GUI_design-0D1117?style=for-the-badge&logo=codeium&logoColor=yellow&labelColor=0D1117)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-design-0D1117?style=for-the-badge&logo=codeium&logoColor=yellow&labelColor=0D1117)&nbsp;
+![Visual Studio](https://img.shields.io/badge/-Data_Engineering-0D1117?style=for-the-badge&logo=codeium&logoColor=yellow&labelColor=0D1117)&nbsp;
 
 
 <div align="center">
