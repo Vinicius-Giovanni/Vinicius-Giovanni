@@ -65,7 +65,7 @@ Atualmente cursando **Engenharia de Dados** e **Ciência de Dados**.
 ### 📈 Contador de visitas
 <div align="center">
   <br><p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Vinicius-Giovanni}/count.svg" /></p> 
+  <p align="center"><<img align="center" src="https://profile-counter.glitch.me/Vinicius-Giovanni/count.svg" /> 
   <br>
 </div>
 
