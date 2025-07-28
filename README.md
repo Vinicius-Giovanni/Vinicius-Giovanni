@@ -10,9 +10,9 @@ Sou **Analista de Dados Júnior**, com atuação em projetos de:
 - BI Operacional com Power BI
 - Desenvolvimento de pipelines ETL com Python
 - Aplicação de estatística descritiva e inferencial
-- Automação de processos com Power Automate
+- Automação de processos
 
-Atualmente cursando **Engenharia de Dados** e **Ciência de Dados**.
+Atualmente cursando **Engenharia de Dados**.
 
 ---
 
@@ -30,6 +30,7 @@ Atualmente cursando **Engenharia de Dados** e **Ciência de Dados**.
 ### 🧠 Main Skills
 
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 ![Power BI](https://img.shields.io/badge/-Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=yellow&labelColor=0D1117)&nbsp;
 ![ETL](https://img.shields.io/badge/-ETL_Pipelines-0D1117?style=for-the-badge&logo=databricks&logoColor=orange&labelColor=0D1117)&nbsp;
 ![Data Engineering](https://img.shields.io/badge/-Data_Engineering-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=blue&labelColor=0D1117)&nbsp;
@@ -45,6 +46,7 @@ Atualmente cursando **Engenharia de Dados** e **Ciência de Dados**.
 
 ![Power BI](https://img.shields.io/badge/-Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=yellow&labelColor=0D1117)&nbsp;
 ![Power Automate](https://img.shields.io/badge/-Power_Automate-0D1117?style=for-the-badge&logo=powerautomate&logoColor=white&labelColor=0D1117)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117)&nbsp;
 ![Excel](https://img.shields.io/badge/-Excel-0D1117?style=for-the-badge&logo=microsoftexcel&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![VS Code](https://img.shields.io/badge/-VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&labelColor=0D1117)&nbsp;
@@ -54,19 +56,13 @@ Atualmente cursando **Engenharia de Dados** e **Ciência de Dados**.
 
 ### 📚 Estudando atualmente
 
-![Data Engineering](https://img.shields.io/badge/-Data_Engineering-0D1117?style=for-the-badge&logo=databricks&labelColor=0D1117)&nbsp;
+![Data Engineering](https://img.shields.io/badge/-Engenharia_de_Dados-0D1117?style=for-the-badge&logo=databricks&labelColor=0D1117)&nbsp;
+![Matemática](https://img.shields.io/badge/-Matemática-0D1117?style=for-the-badge&logo=canonical&labelColor=0D1117)&nbsp;
 ![Advanced Stats](https://img.shields.io/badge/-Estatística_Avançada-0D1117?style=for-the-badge&logo=r&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python_Avançado-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
 ![UX Design](https://img.shields.io/badge/-UX/UI_Design-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Inglês](https://img.shields.io/badge/-Inglês-0D1117?style=for-the-badge&logo=polywork&labelColor=0D1117)&nbsp;
 
 ---
-
-### 📈 Contador de visitas
-<div align="center">
-  <br><p align="centre"><b>Visitors Count</b></p>  
-  <p align="center"><<img align="center" src="https://profile-counter.glitch.me/Vinicius-Giovanni/count.svg" /> 
-  <br>
-</div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
