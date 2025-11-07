@@ -34,10 +34,9 @@ Atualmente cursando **Engenharia de Dados**.
 ![Power BI](https://img.shields.io/badge/-Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=yellow&labelColor=0D1117)&nbsp;
 ![ETL](https://img.shields.io/badge/-ETL_Pipelines-0D1117?style=for-the-badge&logo=databricks&logoColor=orange&labelColor=0D1117)&nbsp;
 ![Data Engineering](https://img.shields.io/badge/-Data_Engineering-0D1117?style=for-the-badge&logo=apacheairflow&logoColor=blue&labelColor=0D1117)&nbsp;
-![Data Science](https://img.shields.io/badge/-Data_Science-0D1117?style=for-the-badge&logo=scikitlearn&labelColor=0D1117)&nbsp;
 ![Data Analysis](https://img.shields.io/badge/-Data_Analysis-0D1117?style=for-the-badge&logo=pandas&labelColor=0D1117)&nbsp;
 ![Estatística](https://img.shields.io/badge/-Estatística-0D1117?style=for-the-badge&logo=chartdotjs&labelColor=0D1117)&nbsp;
-![BI Operacional](https://img.shields.io/badge/-BI_Operacional-0D1117?style=for-the-badge&logo=tableau&logoColor=white&labelColor=0D1117)&nbsp;
+![Power Business](https://img.shields.io/badge/-Power_Business-0D1117?style=for-the-badge&logo=tableau&logoColor=white&labelColor=0D1117)&nbsp;
 ![Automação de Processos](https://img.shields.io/badge/-Automação_de_Processos-0D1117?style=for-the-badge&logo=powerautomate&logoColor=white&labelColor=0D1117)&nbsp;
 
 ---
@@ -49,18 +48,15 @@ Atualmente cursando **Engenharia de Dados**.
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=0D1117)&nbsp;
 ![Excel](https://img.shields.io/badge/-Excel-0D1117?style=for-the-badge&logo=microsoftexcel&labelColor=0D1117)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
-![VS Code](https://img.shields.io/badge/-VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&labelColor=0D1117)&nbsp;
-![Notion](https://img.shields.io/badge/-Notion-0D1117?style=for-the-badge&logo=notion&labelColor=0D1117)&nbsp;
+![Databricks](https://img.shields.io/badge/-Databricks-0D1117?style=for-the-badge&logo=databricks&logoColor=orange&labelColor=0D1117)&nbsp;
 
 ---
 
 ### 📚 Estudando atualmente
 
 ![Data Engineering](https://img.shields.io/badge/-Engenharia_de_Dados-0D1117?style=for-the-badge&logo=databricks&labelColor=0D1117)&nbsp;
-![Matemática](https://img.shields.io/badge/-Matemática-0D1117?style=for-the-badge&logo=canonical&labelColor=0D1117)&nbsp;
-![Advanced Stats](https://img.shields.io/badge/-Estatística_Avançada-0D1117?style=for-the-badge&logo=r&labelColor=0D1117)&nbsp;
+![Estatística](https://img.shields.io/badge/-Estatística-0D1117?style=for-the-badge&logo=r&labelColor=0D1117)&nbsp;
 ![Python](https://img.shields.io/badge/-Python_Avançado-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![UX Design](https://img.shields.io/badge/-UX/UI_Design-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117)&nbsp;
 ![Inglês](https://img.shields.io/badge/-Inglês-0D1117?style=for-the-badge&logo=polywork&labelColor=0D1117)&nbsp;
 
 ---
