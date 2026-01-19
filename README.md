@@ -6,11 +6,11 @@
 
 ### 🚀 About Me
 Sou **Analista de Dados Júnior**, com atuação em projetos de:
-- Engenharia e Ciência de Dados
-- BI Operacional com Power BI
-- Desenvolvimento de pipelines ETL com Python
+- Engenharia de Dados
+- Business Intelligence Operacional com Power BI
+- Desenvolvimento de pipelines ETL com Python e Databricks
 - Aplicação de estatística descritiva e inferencial
-- Automação de processos
+- Automação de processos e RPA
 
 Atualmente cursando **Engenharia de Dados**.
 
